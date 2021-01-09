@@ -1,3 +1,3 @@
 print("hello world")
 print("settapak")
-print("petch")
+print("age : 20")
