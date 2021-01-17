@@ -4,5 +4,5 @@ thislist.append("orange")
 print(thislist)
 
 thislist2 = ["apple", "banana", "cherry"]
-thislist2.insert(1, "orabge")
+thislist2.insert(1, "orange")
 print(thislist2)
